@@ -18,8 +18,8 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
  ------
  ## Dataset
  
-To train the Eco Lens model, we used a publicly available dataset from Kaggle:  
-🔗 https://www.kaggle.com/code/mohammedezzeldean/cars-detection-yolov8/input?select=Cars+Detection 
+Dataset yang saya gunakan dalam pembuatan projek ini bersumber dari kaggle :  
+🔗 [Vehicle Detection Dataset] https://www.kaggle.com/code/mohammedezzeldean/cars-detection-yolov8/input?select=Cars+Detection 
 
  ------
 
