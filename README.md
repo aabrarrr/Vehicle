@@ -18,7 +18,7 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
  ------
 
  # Model Training
-                  all        250        454      0.777      0.518      0.596      0.456
+                   all        250        454      0.777      0.518      0.596      0.456
              Ambulance         50         64      0.854      0.781      0.873      0.737
                    Bus         30         46      0.862      0.652      0.723      0.603
                    Car         90        238      0.654       0.42      0.484      0.346
