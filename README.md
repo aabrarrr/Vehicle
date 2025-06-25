@@ -43,3 +43,5 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
    
    ```bash
    python app.py
+5. Then open your browser and go to:
+    http://127.0.0.1:3000/
