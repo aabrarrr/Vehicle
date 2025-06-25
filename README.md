@@ -20,3 +20,16 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
   - Upload gambar
   - Gambar akan dilatih menggunakan model YOLOv8
   - Hasil gambar yang memberikan bounding box dengan label
+
+## How to Run Project
+
+1. Clone this repository.
+2. Install the dependencies:
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the project:
+   
+   ```bash
+   python app.py
