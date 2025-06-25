@@ -16,6 +16,12 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
 - Matplotlib
 
  ------
+ ## Dataset
+ 
+To train the Eco Lens model, we used a publicly available dataset from Kaggle:  
+🔗 https://www.kaggle.com/code/mohammedezzeldean/cars-detection-yolov8/input?select=Cars+Detection 
+
+ ------
 
  # Model Training
                    Class     Images  Instances      Box          R      mAP50      mAP50-95
