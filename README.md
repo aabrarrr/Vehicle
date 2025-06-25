@@ -18,8 +18,8 @@ Sangat cocok untuk analisis lalu lintas secara otomatis, pemantauan keamanan, ma
  ------
  ## Dataset
  
-Dataset yang saya gunakan dalam pembuatan projek ini bersumber dari kaggle :  
-🔗 [Vehicle Detection Dataset] (https://www.kaggle.com/code/mohammedezzeldean/cars-detection-yolov8/input?select=Cars+Detection) 
+Dataset yang saya gunakan dalam pembuatan projek ini bersumber dari kaggle yaitu Vehicle Detection Dataset : 
+https://www.kaggle.com/code/mohammedezzeldean/cars-detection-yolov8/input?select=Cars+Detection
 
  ------
 
